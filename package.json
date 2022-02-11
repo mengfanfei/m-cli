@@ -1,15 +1,18 @@
 {
-  "name": "m-cli",
+  "name": "mteng-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "项目搭建工具",
   "main": "index.js",
   "bin": {
-    "m-cli": "index.js"
+    "mteng-cli": "index.js"
   },
   "scripts": {
-    "m-cli": "node index.js",
+    "mteng-cli": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mengfanfei",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0"
+  }
 }
