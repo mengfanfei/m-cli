@@ -1,6 +1,6 @@
 {
   "name": "mteng-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "项目搭建工具",
   "main": "index.js",
   "bin": {

@@ -5,7 +5,7 @@ import ora from "ora";
 import chalk from "chalk";
 import logSymbols from "log-symbols";
 
-program.version("1。0.0")
+program.version("1.0.1")
 
 program
     .command("create <project>")
